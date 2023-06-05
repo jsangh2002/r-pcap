@@ -1,3 +1,6 @@
+/*
+** Copyright (c) 2023 Jasmine Sanghvi
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
